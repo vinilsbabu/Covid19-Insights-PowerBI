@@ -17,7 +17,11 @@ This repository contains an analysis of the COVID-19 pandemic based on key metri
 ### 1. Testing and Case Detection
 - **Total Tests:** 224 million tests have been conducted globally, reflecting the extensive efforts to diagnose COVID-19 cases.
 - **Total Cases:** Out of 224 million tests, 18 million cases have been confirmed, representing approximately 8.04% of all tests conducted.
-- **Test Positivity Rate:** 8.04%. This rate suggests that approximately 8.04% of all tests conducted resulted in a positive COVID-19 diagnosis.
+- **Test Positivity Rate:** 
+  \[
+  \text{Test Positivity Rate} = \frac{\text{Total Cases}}{\text{Total Tests}} = \frac{18,000,000}{224,000,000} \approx 0.0804 \, (8.04\%)
+  \]
+  This rate suggests that approximately 8.04% of all tests conducted resulted in a positive COVID-19 diagnosis.
 
 ### 2. Recovery and Mortality Rates
 - **Total Recovered Cases:** 11 million individuals have recovered from COVID-19, highlighting the capacity of healthcare systems to manage and treat those infected.
